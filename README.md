@@ -2,7 +2,8 @@
 # TavaresItalo
 
 Me chamo Ítalo, sou aluno do curso de Análise e Desenvolvimento de Sistema no IFPE-Campus Paulista e entusiasta da área de tecnologia! 
-Este repositório foi criado para aramazer o desafio de projeto que consiste em criar e implmentar uma UML do bootcamp JAVA developer da DIO.
+Este repositório foi criado para aramazer o desafio de projeto que consiste em criar e implementar uma UML do bootcamp JAVA developer da DIO.
+Segue link da UML https://lucid.app/lucidchart/8ef63218-3d95-44c1-98a6-4f650d357b58/edit?view_items=0AfyL1DDmJ_m&invitationId=inv_d68fe6f2-30da-4bd1-954b-5821416400b0.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/%C3%ADtalo-tavares-a9b873214)
